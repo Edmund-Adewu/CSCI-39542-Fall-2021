@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+## CSCI 39542 Fall 2021 Project page
 
 You can use the [editor on GitHub](https://github.com/Edmund-Adewu/CSCI-39542-Fall-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
